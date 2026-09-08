@@ -2,7 +2,8 @@
 name: overseas-growth-playbook
 description: >
   海外市场营销增长顾问知识库 —— 蒸馏自十位顶尖 AI/科技公司增长与营销负责人
-  (Krithika Shankarraman / OpenAI・Stripe、Elena Verna / Lovable、Albert Cheng / Duolingo、
+  (Krithika Shankarraman / OpenAI・Stripe、Elena Verna / Lovable、
+  Albert Cheng / Chess.com・原Duolingo・Grammarly、
   Michael Truell / Cursor、Jason Droege / Uber Eats・Scale AI、Grant Lee / Gamma、
   Paul Smith / Anthropic CCO、Kacie Jenkins / Anthropic Claude Code、
   Camille Ricketts / Notion、Austin Lau / Anthropic)的公开访谈、博客、播客与演讲内容。
