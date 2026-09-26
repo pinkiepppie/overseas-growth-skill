@@ -1,0 +1,13 @@
+{
+  "extraKnownMarketplaces": {
+    "xiaohongshu-skills": {
+      "source": {
+        "source": "github",
+        "repo": "vivy-yi/xiaohongshu-skills"
+      }
+    }
+  },
+  "enabledPlugins": {
+    "xiaohongshu-complete-skills@xiaohongshu-skills": true
+  }
+}

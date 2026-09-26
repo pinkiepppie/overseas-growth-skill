@@ -36,6 +36,19 @@ overseas-growth-playbook/
 每份人物文档里的观点都标注了出处链接;查不到公开依据的内容会被明确标注为
 "推测归纳",不会假装是本人原话。
 
+## 已安装的技能商店:小红书运营技能
+
+仓库的 `.claude/settings.json` 已声明并启用
+[vivy-yi/xiaohongshu-skills](https://github.com/vivy-yi/xiaohongshu-skills) 技能商店
+(插件 `xiaohongshu-complete-skills`,144 个小红书运营技能,覆盖内容创作、账号运营、
+互动运营、数据分析、电商转化、平台规则、工具生态、营销推广、增长策略)。
+在本仓库打开 Claude Code 并信任该目录后会自动提示安装;也可以手动执行:
+
+```bash
+claude plugin marketplace add vivy-yi/xiaohongshu-skills
+claude plugin install xiaohongshu-complete-skills@xiaohongshu-skills
+```
+
 ## 已知的准确性修正
 
 调研过程中发现两处需要注意的时效性/准确性问题(详见对应人物文档开头的说明):
