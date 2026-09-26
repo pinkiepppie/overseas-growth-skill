@@ -1,0 +1,3 @@
+Source: https://github.com/CNWU16/vedic-astro-skills
+Commit: ef07c00f4a2ba58c006cd122d14713372f358b8b (claude-code/skills/)
+License: AGPL-3.0 + COMMERCIAL_NOTICE (personal, non-commercial use only)

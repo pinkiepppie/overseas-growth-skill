@@ -49,6 +49,15 @@ claude plugin marketplace add vivy-yi/xiaohongshu-skills
 claude plugin install xiaohongshu-complete-skills@xiaohongshu-skills
 ```
 
+## 已安装的项目级 Skill:吠陀占星 vedic-astro-skills
+
+`.claude/skills/vedic-*` 是从 [CNWU16/vedic-astro-skills](https://github.com/CNWU16/vedic-astro-skills)
+的 `claude-code/skills/` 复制来的 8 个 skill(排盘 calculator、星盘读取 reader、完整分析
+core、事业 career、感情 love、合盘 synastry、校时 rectifier、卜卦 prashna)。在本仓库打开
+Claude Code 即自动加载。排盘前需要 Python 3.8～3.13,首次使用运行
+`python .claude/skills/vedic-calculator/scripts/setup_env.py` 安装 PyJHora 等依赖。
+许可:AGPL-3.0 + 附加商业限制(仅限个人非商业使用),见 `.claude/skills/_vedic-astro-license/`。
+
 ## 已知的准确性修正
 
 调研过程中发现两处需要注意的时效性/准确性问题(详见对应人物文档开头的说明):
